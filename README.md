@@ -1,5 +1,5 @@
 # ATIVIDADE_01 da Disciplina  Tecnologias Web, UFC-Sobral 2018.1
-
+-------------
 ATIVIDADE_01 da Disciplina  Tecnologias Web, UFC-Sobral 2018.1
 
 This project is about a subject activity college: Create a website for my curriculum with some pages like especifications bellow. 
@@ -24,11 +24,11 @@ com validação de campos via JS – verificar se campos foram preenchidos; pesq
 – Defina um menu que permita a navegação pelas 7 páginas
 
 
-------------
 STARTED PROJECT: 6th April, 2018.
 
 FINISHED DATE: 8th April, 2018.
 
+----------------
 Author: IDELFRIDES JORGE |
 
 Mail me by idelfridesjorge@alu.ufc.br
