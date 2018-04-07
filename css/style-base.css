@@ -1,0 +1,104 @@
+.font-page{
+    width: 100%;
+    height: 600px;
+    background: #fff url("../imagens/wm-github.jpg") repeat-x top center;
+
+}
+
+.myborderFooter {
+    height: auto;
+    width: 100%;
+    border-top: 30px solid #6f42c1;
+    margin-bottom: 10px;
+}
+
+.bg-footer-dark{
+   /* background-color: slateblue;  #009688  */
+    background-color: #495057 !important; /*#343a40;*/
+}
+.container{
+    align-content: center;
+    /*text-align: center;*/
+    -webkit-align-content: center;
+    margin: 0;
+}
+.row{
+    border: 1px solid black;
+    margin-bottom: 0;
+    align-content: center;
+    -webkit-align-content: center;
+}
+
+#block-footer-1{
+   /* border: 1px solid red;
+    width: 19%;
+    display: inline-block;*/
+    margin-bottom: 20px;
+}
+
+.block-footer{
+    border: 1px solid red;
+    width: 19%;
+    display: inline-block;
+    margin-bottom: 30;
+}
+.myborderTitleTopic1{
+    width: 70%;
+    border-top: 3px solid #009688;
+    margin-bottom: 40px;
+}
+
+.wm-logo a{
+    font-size: 7rem;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+/* for Assunto, More, Menu and Follow me */
+.myborderTitleTopic4{
+    width: 40%;
+    border-top: 3px solid #009688;
+    margin-bottom: 40px;
+}
+
+.menu-content a{
+    display: block;
+    margin-bottom: 6px;
+}
+
+.menu-content a:hover{
+    color: #009688;
+    padding-left: 5px;
+}
+
+.text-primary{
+    color: mediumseagreen;   /*#009688; */
+    font-weight: bolder;
+    font-size: 1.3rem;
+    margin-bottom: 2px;
+    margin-top: -1px;
+}
+.text-white{
+    color: #fff;
+    text-decoration: none;
+}
+.citation-footer{
+    color: mediumseagreen;
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 30px;
+    margin-bottom: -2px;
+}
+
+.copy-style{
+    background-color: #343a40 !important; /*#495057; */
+    height: 90px;
+    box-shadow: 1px 1px #495057;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.copy-text{
+    margin-top: 30px;
+    padding-top: 25px;  /* 20px/90px = 0.222%*/
+}
