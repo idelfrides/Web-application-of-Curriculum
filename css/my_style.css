@@ -1,16 +1,23 @@
+
+/* ----------------------------------
+      front section: header
+ -----------------------------------*/
+body{
+    background-color: lightgrey;
+}
 html {
     background-color:#F6F6F6
 }
 
-.main {
-    width:1200px;
-    /*margin: -1px auto 10px;*/
-    /*border:1px solid #ddd;*/
-    background-color:#FFF;
-    font-family:Arial, Helvetica, sans-serif;
-    border: 1px solid red;
-    height: auto;
-    margin: auto 10%;
+/*-----------------------------------
+      Main content
+ -----------------------------------*/
+.main-page {
+    max-width: 86%; /*  1300px  */
+    background-color: lightgrey;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    margin: auto 7%;
+    align-content: center;
 }
 
 nav {
@@ -26,100 +33,112 @@ nav ul {
 
 nav ul li {
     display:inline-block;
-    /*padding: ;*/
 }
 
 nav ul li a {
     font-size: 1.2em;
     text-decoration: none;
     color: #FFF;
+    font-family: Verdana, Georgia, Times, sans-serif;
     padding: 10px 20px;
 }
 
 nav ul li a:hover {
     background-color: #fff;
     color: #009688;
-    padding: 15px 20px;
-    font-weight: bold;
+    padding-top: 12px;
+    padding-bottom: 22px;
+    font-weight: 500;
     font-size: 1.2em;
 }
 
-nav ul li#home-style-icon a img#icon-home:hover{
-    background-color: transparent;
-    color: transparent;
-}
-
-#icon-home:hover{
+#home-style:hover{
     background-color: transparent;
 }
-/* --------------------------------*/
+/*--------------------------------------
+        Corriculum real content
+        1 - left side informations
+ --------------------------------------*/
 
-article {
-    float:left;
-    margin:30px 20px;
-    width:600px;
-}
-
-article header hgroup h1 {
-    margin:0;
+.card-content-container{
+    margin: 15px 0;
 }
 
-article header hgroup h5 {
-    margin:0;
-    font-size: 1.1em;
-    color:#ccc;
-    font-weight: 100;
+.left-aside-card{
+    font-family: Verdana, Helvetica, "Times New Roman", sans-serif;
+    width: 27.54%;       /* 358px / 1300px */
+    height: auto;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 7px 0 0 7px;
 }
 
-aside {
-    float:left;
-    width:230px;
-    border-top:1px solid #CC6633;
-    border-bottom:1px solid #CC6633;
-    padding:40px 10px 0;
-    font-style: italic;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    background: url(../imagens/aspas.gif) no-repeat;
+.header-left-info img{
+    max-width: 100%;     /* 100% de area .left-aside = 358px;*/
+    border-radius: 7px 0 0 0;
 }
 
-aside p {
-    color:#999;
+.header-left-info h2{
+    color: #000;
+    font-weight: 700;
+    letter-spacing: -0.01px;
+    font-style: normal;
+    margin-left: 15px;
+}
+
+/*--------------------------------------
+        Corriculum content
+        1 - right side content
+ --------------------------------------*/
+
+.right-content-conteiner{
+    max-width: 60.6%;        /* 920px /1300px */
+    margin-left: 25%;     /* 380px / 1300px */;
+    margin-top: -1030px;      /* 880px / 1300px */;
+    position: absolute;
+    height: auto;
+    background-color: #fff;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 0 7px 7px 0;
+    font-family: Helvetica, Verdana, "Times New Roman", sans-serif;
+;
+}
+
+.right-content-card{
+    width: 94%;        /* 828px / 920px */
+    border: 1px solid red;
+    margin: 20px 3%;
+}
+
+.title-content-card h1{
+    color: #009688;
+    letter-spacing:-0.001em;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.real-content-page p{
+    text-align: justify;
+    font-size: 1.2em;   /* 16 px = 1em */
+    color: gray;
+
 }
 
 
-#apoio {
-    float:right;
-    width:300px;
-    margin-top:30px
-}
-footer {
-    clear:both;
-    width:700px;
-    margin:0 auto;
-    font-size:0.75em;
-    text-align:center;
-    background-color:#ECECEC;
-    padding:5px
+/*-------------------------------------
+      Contact section
+ --------------------------------------*/
+
+.form-contato{
+    width: 100%;
+    border:  2px solid #000;
+    padding-bottom: 50px;
+    background-color: cyan;
 }
 
-h1, h2, h4 {
-    font-family:Georgia, "Times New Roman", Times, serif;
-    color:#C63;
-    font-style:italic;
-    letter-spacing:-0.05em
-}
-h1 {
-    font-size:2.6em;
-    margin:0 5px;
-}
-h4 {
-    font-size:1.6em;
-    margin:0 5px;
-}
-p, li {
-    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size:0.9em;
-    color:#555;
-    line-height:1.8
-}
+
+
+
