@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d0ff04-92c1-4f73-8960-3bab32b4ff07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_TEMPLATE/base.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/my_style.css" afterPath="$PROJECT_DIR$/css/my_style.css" />
-      <change beforePath="$PROJECT_DIR$/css/style-base.css" afterPath="$PROJECT_DIR$/css/style-base.css" />
-      <change beforePath="$PROJECT_DIR$/exercicio/estilo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/exercicio/index_joseph.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/imagens/aspas.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/imagens/fotos.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/imagens/mapa_como_chegar.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/imagens/topo_principal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/imagens/vinhos.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/Exp_profissional.html" afterPath="$PROJECT_DIR$/paginas/Exp_profissional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/competencias.html" afterPath="$PROJECT_DIR$/paginas/competencias.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/formacao_academica.html" afterPath="$PROJECT_DIR$/paginas/formacao_academica.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/infos_adicional.html" afterPath="$PROJECT_DIR$/paginas/infos_adicional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/interesses.html" afterPath="$PROJECT_DIR$/paginas/interesses.html" />
+      <change beforePath="$PROJECT_DIR$/imagens/avatar_hat.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/imagens/idelfrides-profissa1.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +81,8 @@
       <file leaf-file-name="style-base.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style-base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="116" column="19" lean-forward="false" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state relative-caret-position="159">
+              <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -191,7 +176,7 @@
             <path>
               <item name="ATIVIDADE_01- Disc. Tecnologias. Web" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATIVIDADE_01- Disc. Tecnologias. Web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="paginas" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="imagens" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -245,7 +230,7 @@
       <workItem from="1522959760913" duration="14653000" />
       <workItem from="1523037628162" duration="1659000" />
       <workItem from="1523039372568" duration="29887000" />
-      <workItem from="1523281776836" duration="49858000" />
+      <workItem from="1523281776836" duration="50560000" />
     </task>
     <task id="LOCAL-00001" summary="New files for project">
       <created>1523038547806</created>
@@ -258,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96057000" />
+    <option name="totallyTimeSpent" value="96759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style-base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="116" column="19" lean-forward="false" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state relative-caret-position="159">
+          <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
           <folding />
         </state>
       </provider>
