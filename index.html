@@ -13,10 +13,10 @@
 		<link type="text/css" rel="stylesheet" href="css/my_style.css">
         <link type="text/css" rel="stylesheet" href="css/style-base.css">
 
+        <script type="text/javascript" src="js/javascript.js"></script>
+
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-
-        <link rel="script" href="js/javascript.js" >
     </head>
 
     <body>
@@ -48,7 +48,7 @@
 
                  <img src="imagens/topo_principal.jpg"> -->
 
-            <nav> <!-- navegação -->
+            <nav id="navbar"> <!-- navegação -->
                 <ul>
                     <li><a href="#" id="home-style"><img id="icon-home" src="imagens/home.png" width="35" height="35" title="Home" style="background-color: transparent;"></a></li>
                     <li><a href="paginas/formacao_academica.html">Formação Acad</a></li>
@@ -72,7 +72,7 @@
                     <div class="w3-container">
                         <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Full Stack Web Developer</p>
                         <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Birth: Bissau, Guiné-Bissau</p>
-                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Sobral-Ce, Brasil</p>
+                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Centro, Sobral-Ce, Brasil</p>
                         <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>idelfridesjorge@alu.ufc.br</p>
                         <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>&plus; 55 88 9 9996-5504</p>
                         <hr>
@@ -138,24 +138,57 @@
                         </div>
                     </div>
                 </article><!-- fim artigo content page -->
+
+                <article class="right-content-conteiner-2">
+                    <div class="right-content-card">
+                        <div class="title-content-card">
+                            <h1>More About Me</h1>
+                        </div>
+
+                        <div class="real-content-page">
+                            <p>
+                                Sou determinado, proativo e perseverante. Sou muito inteligente e comunicativo.<br>
+                                Estou disposto a aprender e tenho elevada  capacidade de absorver informações e de relacionar com pessoas. <br>  Procuro experimentar e enfrentar novos desafios com foco em resultados.<br>
+                                Gosto de cumprir as regras e fazer cumprir.
+                            </p>
+                        </div>
+                    </div>
+                </article><!-- fim artigo content page -->
+
             </div>
         </main>
 
        <!-- **************************************************************
-                                contato
+                                  contato
        *************************************************************** -->
        <div class="form-contato" id="form-contato">
-           <div class="myform">
+           <div class="myform-container">
                <h1>Formulário</h1>
-               <p> obama obama obama obama obama obama obama obama obama
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama <br>
-                   obama obama obama obama obama obama obama obama obama
+               <p> É uma grande satisfação receber seu <em>feedback</em>.
+                   Entre am contato comigo e me dê sua opinição, crítica ou sugestão.
+
                </p>
+               <br><br>
+               <div class="myform">
+                   <form name="wmform" action="index.html" onsubmit="return validar()" method="post">
+                       <label class="label2" for="first_name">Primeiro nome</label><br>
+                       <input type="text" name="first_name" value="" id="first_name" placeholder="Primeiro Nome" class="campo"><br><br>
+
+                       <label class="label2" for="last_name">Sobrenome</label><br>
+                       <input type="text" name="last_name" value="" id="last_name" placeholder="Sobrenome" class="campo"><br><br>
+
+                       <label class="label" for="email">E-mail</label><br>
+                       <input type="text" name="email" value="" id="email" placeholder="E-mail" class="campo"><br><br>
+
+                       <label class="label" for="message">Mensagem</label><br>
+                       <textarea id="message" name="message" placeholder="Sua Mensaagem" autofocus>
+                       </textarea><br><br>
+                       <div class="button-div">
+                           <input type="submit" name="enviar" value="Submit" class="button" id="button-submit">
+                           <input type="reset" name="reset" value="Limpar" class="button" id="button-reset"><br>
+                       </div>
+                   </form>
+               </div>
            </div>
        </div> <!-- fim contato -->
 
@@ -188,9 +221,9 @@
                     <div class="myborderTitleTopic4"></div>
                     <div class="menu-content-footer">
                         <a href="#" class="text-white">Idelfrides Jorge</a>
-                        <a href="https://www.w3schools.com/html/default.asp" target="_blank" class="text-white">HTML 5</a>
-                        <a href="https://www.w3schools.com/css/default.asp" target="_blank" class="text-white mb-2">CSS 3</a>
-                        <a href="https://www.w3schools.com/js/default.asp" target="_blank" class="text-white">JavaScript</a>
+                        <a href="#" target="_blank" class="text-white">HTML 5</a>
+                        <a href="#" target="_blank" class="text-white mb-2">CSS 3</a>
+                        <a href="#" target="_blank" class="text-white">JavaScript</a>
                     </div>
                 </div>
 
@@ -251,5 +284,10 @@
                 </div>
             </div>
         </div>
+<!--
+       <link rel="script" href="js/javascript.js" >
+       <link rel="script" href="js/sticky-navbar-effect.js">
+       -->
+
     </body>
 </html>
