@@ -24,7 +24,7 @@ com validação de campos via JS – verificar se campos foram preenchidos; pesq
 
 STARTED PROJECT: 6th April, 2018.
 
-FINISHED DATE: 8th April, 2018.
+FINISHED DATE: 10th April, 2018.
 
 ----------------
 Author: IDELFRIDES JORGE | 
