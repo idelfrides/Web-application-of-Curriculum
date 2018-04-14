@@ -27,6 +27,6 @@ STARTED PROJECT: 6th April, 2018.
 FINISHED DATE: 10th April, 2018.
 
 ----------------
-Author: IDELFRIDES JORGE | 
+Author: IDELFRIDES JORGE 
 
 Mail me by idelfridesjorge@alu.ufc.br
