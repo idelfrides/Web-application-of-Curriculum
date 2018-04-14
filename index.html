@@ -2,26 +2,23 @@
 <html lang="pt-br">
 
     <head>
-        <title>My Curricullum Page</title>
+        <title>My Curriculum Page</title>
         <meta charset="UTF-8">
         <meta name="description" content="Free Web tutorials">
         <meta name="keywords" content="HTML,CSS,JavaScript">
         <meta name="author" content="IDELFRIDES JORGE">
         <meta name="viewport" content="width=devide-width, initial-scale=1.0">
         <link rel="shortcut icon" type="image/x-icon" href="imagens/favicon-wm-32.ico">
-
 		<link type="text/css" rel="stylesheet" href="css/my_style.css">
         <link type="text/css" rel="stylesheet" href="css/style-base.css">
-
         <script type="text/javascript" src="js/javascript.js"></script>
-
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
     </head>
 
     <body>
        <!-- section principal-->
-        <section class="front-page">
+        <section class="front-page" id="star-page">
             <div class="box-myh1">
                 <a href="#" style="text-decoration: none;"><h1 class="myh1">Eng. Idelfrides Jorge</h1></a>
             </div>
@@ -50,7 +47,7 @@
 
             <nav id="navbar"> <!-- navegação -->
                 <ul>
-                    <li><a href="#" id="home-style"><img id="icon-home" src="imagens/home.png" width="35" height="35" title="Home" style="background-color: transparent;"></a></li>
+                    <li><a href="#star-page" id="home-style"><img id="icon-home" src="imagens/home.png" width="35" height="35" title="Home" style="background-color: transparent;"></a></li>
                     <li><a href="paginas/formacao_academica.html">Formação Acad</a></li>
                     <li><a href="paginas/competencias.html">Competências</a></li>
                     <li><a href="paginas/Exp_profissional.html">Experiências</a></li>
@@ -159,7 +156,7 @@
         </main>
 
        <!-- **************************************************************
-                                  contato
+                          FORMULÁRIO DE CONTATO
        *************************************************************** -->
        <div class="form-contato" id="form-contato">
            <div class="myform-container">
@@ -170,7 +167,7 @@
                </p>
                <br><br>
                <div class="myform">
-                   <form name="wmform" action="index.html" onsubmit="return validar()" method="post">
+                   <form name="wmform" onsubmit="return validar()" action="paginas/destino-form.html" method="post" TARGET="_blank">
                        <label class="label2" for="first_name">Primeiro nome</label><br>
                        <input type="text" name="first_name" value="" id="first_name" placeholder="Primeiro Nome" class="campo"><br><br>
 
