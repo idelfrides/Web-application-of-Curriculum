@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d0ff04-92c1-4f73-8960-3bab32b4ff07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/my_style.css" afterPath="$PROJECT_DIR$/css/my_style.css" />
-      <change beforePath="$PROJECT_DIR$/css/style-base.css" afterPath="$PROJECT_DIR$/css/style-base.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/Exp_profissional.html" afterPath="$PROJECT_DIR$/paginas/Exp_profissional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/competencias.html" afterPath="$PROJECT_DIR$/paginas/competencias.html" />
       <change beforePath="$PROJECT_DIR$/paginas/formacao_academica.html" afterPath="$PROJECT_DIR$/paginas/formacao_academica.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/infos_adicional.html" afterPath="$PROJECT_DIR$/paginas/infos_adicional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/interesses.html" afterPath="$PROJECT_DIR$/paginas/interesses.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2516">
+            <state relative-caret-position="-1700">
               <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding>
                 <element signature="e#4118#4124#0" expanded="true" />
@@ -59,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formacao_academica.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="formacao_academica.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2190">
-              <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+            <state relative-caret-position="510">
+              <caret line="32" column="61" lean-forward="false" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -236,7 +229,7 @@
       <workItem from="1523281776836" duration="50772000" />
       <workItem from="1523361743845" duration="34816000" />
       <workItem from="1523573037374" duration="2804000" />
-      <workItem from="1523736422844" duration="8809000" />
+      <workItem from="1523736422844" duration="9420000" />
     </task>
     <task id="LOCAL-00001" summary="New files for project">
       <created>1523038547806</created>
@@ -249,7 +242,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143400000" />
+    <option name="totallyTimeSpent" value="144011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,17 +625,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2190">
-          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2516">
+        <state relative-caret-position="-1700">
           <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
@@ -651,6 +636,14 @@
             <element signature="e#22603#22609#0" expanded="true" />
             <element signature="e#22610#22616#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="61" lean-forward="false" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
