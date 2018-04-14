@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d0ff04-92c1-4f73-8960-3bab32b4ff07" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/paginas/destino-form.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/my_style.css" afterPath="$PROJECT_DIR$/css/my_style.css" />
+      <change beforePath="$PROJECT_DIR$/css/style-base.css" afterPath="$PROJECT_DIR$/css/style-base.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/javascript.js" afterPath="$PROJECT_DIR$/js/javascript.js" />
+      <change beforePath="$PROJECT_DIR$/paginas/Exp_profissional.html" afterPath="$PROJECT_DIR$/paginas/Exp_profissional.html" />
+      <change beforePath="$PROJECT_DIR$/paginas/competencias.html" afterPath="$PROJECT_DIR$/paginas/competencias.html" />
       <change beforePath="$PROJECT_DIR$/paginas/formacao_academica.html" afterPath="$PROJECT_DIR$/paginas/formacao_academica.html" />
       <change beforePath="$PROJECT_DIR$/paginas/infos_adicional.html" afterPath="$PROJECT_DIR$/paginas/infos_adicional.html" />
+      <change beforePath="$PROJECT_DIR$/paginas/interesses.html" afterPath="$PROJECT_DIR$/paginas/interesses.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,39 +23,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3162">
-              <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+            <state relative-caret-position="-2516">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding>
                 <element signature="e#4118#4124#0" expanded="true" />
-                <element signature="e#22727#22733#0" expanded="true" />
-                <element signature="e#22733#22739#0" expanded="true" />
-                <element signature="e#22744#22750#0" expanded="true" />
-                <element signature="e#22751#22757#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="destino-form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paginas/destino-form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/javascript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#22586#22592#0" expanded="true" />
+                <element signature="e#22592#22598#0" expanded="true" />
+                <element signature="e#22603#22609#0" expanded="true" />
+                <element signature="e#22610#22616#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,28 +42,8 @@
       <file leaf-file-name="my_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/my_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2109">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formacao_academica.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1452">
-              <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="infos_adicional.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/paginas/infos_adicional.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="154" column="34" lean-forward="false" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
+            <state relative-caret-position="185">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,8 +52,28 @@
       <file leaf-file-name="style-base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style-base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="60">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formacao_academica.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2190">
+              <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="competencias.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paginas/competencias.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="164" column="55" lean-forward="false" selection-start-line="164" selection-start-column="55" selection-end-line="164" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -134,16 +114,16 @@
         <option value="$PROJECT_DIR$/_TEMPLATE/base.html" />
         <option value="$PROJECT_DIR$/_CSS/base.css" />
         <option value="$PROJECT_DIR$/js/sticky-navbar-effect.js" />
-        <option value="$PROJECT_DIR$/paginas/competencias.html" />
-        <option value="$PROJECT_DIR$/paginas/interesses.html" />
-        <option value="$PROJECT_DIR$/paginas/Exp_profissional.html" />
+        <option value="$PROJECT_DIR$/js/javascript.js" />
+        <option value="$PROJECT_DIR$/paginas/destino-form.html" />
         <option value="$PROJECT_DIR$/css/my_style.css" />
         <option value="$PROJECT_DIR$/css/style-base.css" />
-        <option value="$PROJECT_DIR$/js/javascript.js" />
-        <option value="$PROJECT_DIR$/paginas/formacao_academica.html" />
-        <option value="$PROJECT_DIR$/paginas/destino-form.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/paginas/interesses.html" />
         <option value="$PROJECT_DIR$/paginas/infos_adicional.html" />
+        <option value="$PROJECT_DIR$/paginas/Exp_profissional.html" />
+        <option value="$PROJECT_DIR$/paginas/competencias.html" />
+        <option value="$PROJECT_DIR$/paginas/formacao_academica.html" />
       </list>
     </option>
   </component>
@@ -256,7 +236,7 @@
       <workItem from="1523281776836" duration="50772000" />
       <workItem from="1523361743845" duration="34816000" />
       <workItem from="1523573037374" duration="2804000" />
-      <workItem from="1523736422844" duration="4778000" />
+      <workItem from="1523736422844" duration="8809000" />
     </task>
     <task id="LOCAL-00001" summary="New files for project">
       <created>1523038547806</created>
@@ -269,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139369000" />
+    <option name="totallyTimeSpent" value="143400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,10 +353,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
-            <element signature="e#22727#22733#0" expanded="true" />
-            <element signature="e#22733#22739#0" expanded="true" />
-            <element signature="e#22744#22750#0" expanded="true" />
-            <element signature="e#22751#22757#0" expanded="true" />
+            <element signature="e#22586#22592#0" expanded="true" />
+            <element signature="e#22592#22598#0" expanded="true" />
+            <element signature="e#22603#22609#0" expanded="true" />
+            <element signature="e#22610#22616#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -429,10 +409,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
-            <element signature="e#22727#22733#0" expanded="true" />
-            <element signature="e#22733#22739#0" expanded="true" />
-            <element signature="e#22744#22750#0" expanded="true" />
-            <element signature="e#22751#22757#0" expanded="true" />
+            <element signature="e#22586#22592#0" expanded="true" />
+            <element signature="e#22592#22598#0" expanded="true" />
+            <element signature="e#22603#22609#0" expanded="true" />
+            <element signature="e#22610#22616#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -485,10 +465,10 @@
           <caret line="171" column="52" lean-forward="false" selection-start-line="171" selection-start-column="52" selection-end-line="171" selection-end-column="52" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
-            <element signature="e#22727#22733#0" expanded="true" />
-            <element signature="e#22733#22739#0" expanded="true" />
-            <element signature="e#22744#22750#0" expanded="true" />
-            <element signature="e#22751#22757#0" expanded="true" />
+            <element signature="e#22586#22592#0" expanded="true" />
+            <element signature="e#22592#22598#0" expanded="true" />
+            <element signature="e#22603#22609#0" expanded="true" />
+            <element signature="e#22610#22616#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,10 +502,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
-            <element signature="e#22727#22733#0" expanded="true" />
-            <element signature="e#22733#22739#0" expanded="true" />
-            <element signature="e#22744#22750#0" expanded="true" />
-            <element signature="e#22751#22757#0" expanded="true" />
+            <element signature="e#22586#22592#0" expanded="true" />
+            <element signature="e#22592#22598#0" expanded="true" />
+            <element signature="e#22603#22609#0" expanded="true" />
+            <element signature="e#22610#22616#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -579,55 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/competencias.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="110" column="41" lean-forward="false" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/interesses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="97" column="29" lean-forward="true" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/Exp_profissional.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/sticky-navbar-effect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/destino-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/my_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2109">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,33 +576,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/destino-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/my_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/interesses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="32" column="48" lean-forward="false" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/infos_adicional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="190" column="51" lean-forward="false" selection-start-line="190" selection-start-column="51" selection-end-line="190" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/Exp_profissional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="151" column="51" lean-forward="false" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paginas/competencias.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="164" column="55" lean-forward="false" selection-start-line="164" selection-start-column="55" selection-end-line="164" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/paginas/formacao_academica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1452">
-          <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="-2190">
+          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3162">
-          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+        <state relative-caret-position="-2516">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#4118#4124#0" expanded="true" />
-            <element signature="e#22727#22733#0" expanded="true" />
-            <element signature="e#22733#22739#0" expanded="true" />
-            <element signature="e#22744#22750#0" expanded="true" />
-            <element signature="e#22751#22757#0" expanded="true" />
+            <element signature="e#22586#22592#0" expanded="true" />
+            <element signature="e#22592#22598#0" expanded="true" />
+            <element signature="e#22603#22609#0" expanded="true" />
+            <element signature="e#22610#22616#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paginas/infos_adicional.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="154" column="34" lean-forward="false" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
