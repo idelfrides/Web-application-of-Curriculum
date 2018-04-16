@@ -1,3 +1,5 @@
+/* ARQUIVO DE ESTILO PARA O CAVELHO E RODAPÉ DE TODAS AS PAGES */
+
 
 /* -------------------------------------------------------
             image front page and manu style
@@ -56,12 +58,37 @@
 }
 
 /* ---------------------------------------------
-           footer style
+                footer style
  -----------------------------------------------*/
+
+#block-footer-1{
+    margin-bottom: 20px;
+
+}
+
+.block-footer{
+    width: 19%;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 2%;
+   /* border: 2px  solid slateblue;*/
+}
+
+.block-footer-more-menu{
+    width: 15%;
+    display: inline-block;
+    margin-bottom: 30px;
+  /*  border: 1px solid peru;*/
+    margin-right: 2%;
+}
+
+.menu-content-footer{
+     margin: 0  0;
+}
 
 .menu-content-footer a{
     display: block;
-    margin-bottom: 6px;
+    margin: 0  -60px 6px 0;
 }
 
 .menu-content-footer a:hover{
@@ -75,7 +102,7 @@
     margin: 0;
 }
 
-.myborderFooter {
+.myborderFooter{
     height: auto;
     width: 100%;
     border-top: 30px solid #6f42c1;
@@ -85,23 +112,24 @@
 .container-footer{
     align-content: center;
     -webkit-align-content: center;
-    margin-top: 10px;
+    margin: 20px 5%;
+  /*  border: 1px solid red;*/
 }
 
-#block-footer-1{
-    margin-bottom: 20px;
-}
 
-.block-footer{
-    width: 19%;
-    display: inline-block;
-    margin-bottom: 30px;
-}
+
+/* class="block-footer" */
 
 .myborderTitleTopic1{
-    width: 70%;
+    width: 80%;
     border-top: 3px solid #009688;
-    margin-bottom: 20px;
+    margin-bottom: -30px;
+}
+
+.wm-logo{
+    /*border: 1px solid yellow;*/
+    margin-right: 5px;
+    max-width: 89%;
 }
 
 .wm-logo a{
@@ -110,8 +138,6 @@
     font-family: Verdana, Helvetica, "Times New Roman", sans-serif;
     color: #fff;
     letter-spacing: -0.151em;
-    margin-left: 10px;
-    padding-top: -10px;
 }
 
 .wm-logo p{
@@ -120,8 +146,7 @@
     font-family: Georgia, Helvetica, Times, sans-serif;
     color: #fff;
     letter-spacing: 10px;
-    margin: -45px 19px 0 35px;
-
+    margin: -45px 0 0 25px;
 }
 
 /* for Assunto, More, Menu and Follow me */
@@ -155,6 +180,7 @@
     background-color: #343a40 !important; /*#495057; */
     height: 90px;
     box-shadow: 1px 1px #495057;
+    width: 100%;
 }
 
 .copy-text{

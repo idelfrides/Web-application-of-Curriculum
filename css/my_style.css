@@ -1,4 +1,4 @@
-
+/* ARQUIVO DE ESTILO  DO CORPO (MENU A SECRION ANTES DO RODAPÉ)DE TODAS AS PAGES */
 
 /* ----------------------------------
       front section: header
@@ -44,9 +44,9 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #fff;
-    color: #009688;
-    padding-top: 9px;
+    background-color: rgba(60, 175, 113, 0.9);;
+    color: #fff;
+    padding-top: 14px;
     padding-bottom: 19px;
     font-weight: 500;
     font-size: 1.2em;
@@ -74,9 +74,12 @@ nav ul li a:hover {
 }
 
 .card-content-container-info{
-    margin: 15px 0 200px 0;
+    margin: 15px 0 40px 0;
 }
 
+.card-content-container-form-acad{
+    margin: 15px 0 100px 0;
+}
 .left-aside-card{
     font-family: Verdana, Helvetica, "Times New Roman", sans-serif;
     width: 27.54%;       /* 358px / 1300px */
@@ -108,7 +111,7 @@ nav ul li a:hover {
  --------------------------------------*/
 
 .right-content-conteiner{
-    width: 60.6%;        /* 920px /1300px */
+    width: 60.6%;            /* 920px / 1300px */
     margin-left: 25%;        /* 380px / 1300px */;
     margin-top: -999px;      /* 880px / 1300px */;
     position: absolute;
@@ -120,8 +123,9 @@ nav ul li a:hover {
     font-family: Helvetica, Verdana, "Times New Roman", sans-serif;
 }
 
+/*   card 2 da page home - About more me  */
 .right-content-conteiner-2{
-    width: 60.6%;        /* 920px /1300px */
+    width: 60.6%;            /* 920px / 1300px */
     margin-left: 25%;        /* 380px / 1300px */;
     margin-top: -550px;      /* 880px / 1300px */;
     position: absolute;
@@ -135,7 +139,7 @@ nav ul li a:hover {
 }
 
 .right-content-card{
-    width: 94%;        /* 828px / 920px */
+    width: 94%;             /* 828px / 920px */
     margin: 20px 3%;
 }
 
@@ -148,7 +152,7 @@ nav ul li a:hover {
 
 .real-content-page p{
     text-align: justify;
-    font-size: 1.2em;   /* 16 px = 1em */
+    font-size: 1.2em;        /* 16 px = 1em */
     color: gray;
 }
 
@@ -156,8 +160,8 @@ nav ul li a:hover {
     color: dimgray;
     font-weight: bolder;
     letter-spacing: -0.01px;
-    text-transform: none;
     font-family: Helvetica, Verdana, "Times New Roman", sans-serif;
+    text-transform: capitalize;
 }
 
 .real-content-page h4{
