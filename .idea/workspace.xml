@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50d0ff04-92c1-4f73-8960-3bab32b4ff07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/my_style.css" afterPath="$PROJECT_DIR$/css/my_style.css" />
-      <change beforePath="$PROJECT_DIR$/css/style-base.css" afterPath="$PROJECT_DIR$/css/style-base.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/Exp_profissional.html" afterPath="$PROJECT_DIR$/paginas/Exp_profissional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/competencias.html" afterPath="$PROJECT_DIR$/paginas/competencias.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/formacao_academica.html" afterPath="$PROJECT_DIR$/paginas/formacao_academica.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/infos_adicional.html" afterPath="$PROJECT_DIR$/paginas/infos_adicional.html" />
-      <change beforePath="$PROJECT_DIR$/paginas/interesses.html" afterPath="$PROJECT_DIR$/paginas/interesses.html" />
-    </list>
+    <list default="true" id="50d0ff04-92c1-4f73-8960-3bab32b4ff07" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +33,7 @@
       <file leaf-file-name="style-base.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style-base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1192">
+            <state relative-caret-position="3906">
               <caret line="126" column="1" lean-forward="true" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
               <folding />
             </state>
@@ -224,7 +214,7 @@
       <workItem from="1523573037374" duration="2804000" />
       <workItem from="1523736422844" duration="9611000" />
       <workItem from="1523826764130" duration="2543000" />
-      <workItem from="1523879091550" duration="5358000" />
+      <workItem from="1523879091550" duration="6000000" />
     </task>
     <task id="LOCAL-00001" summary="New files for project">
       <created>1523038547806</created>
@@ -237,7 +227,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152103000" />
+    <option name="totallyTimeSpent" value="152745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +240,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1772288" sideWeight="0.4934334" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -702,7 +691,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style-base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1192">
+        <state relative-caret-position="3906">
           <caret line="126" column="1" lean-forward="true" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
           <folding />
         </state>
