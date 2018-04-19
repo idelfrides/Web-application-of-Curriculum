@@ -1,4 +1,4 @@
-/* ARQUIVO DE ESTILO  DO CORPO (MENU A SECRION ANTES DO RODAPÉ)DE TODAS AS PAGES */
+/* ARQUIVO DE ESTILO  DO CORPO (MENU ATÉ A SECTION ANTES DO RODAPÉ)DE TODAS AS PAGES */
 
 /* ----------------------------------
       front section: header
@@ -56,12 +56,21 @@ nav ul li a:hover {
     background-color: transparent;
 }
 
-/* navbar fixo e fluivel */
+.active {
+    background-color: #fff;
+    color: #009688;
+    padding-top: 9px;
+    padding-bottom: 19px;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+/* navbar fixo e fluivel na vertical*/
 .sticky{
     position: fixed;
     top: 0;
     width: 100%;   /* 100% de 1300px */
-    padding-top: 100px;
+    padding-top: 550px;
 }
 
 /*--------------------------------------

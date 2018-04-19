@@ -48,14 +48,6 @@
     letter-spacing:-0.009em;
 }
 
-.active {
-    background-color: #fff;
-    color: #009688;
-    padding-top: 9px;
-    padding-bottom: 19px;
-    font-weight: 500;
-    font-size: 1.2em;
-}
 
 /* ---------------------------------------------
                 footer style
@@ -115,7 +107,6 @@
     margin: 20px 5%;
   /*  border: 1px solid red;*/
 }
-
 
 
 /* class="block-footer" */
