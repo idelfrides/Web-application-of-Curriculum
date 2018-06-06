@@ -1,4 +1,4 @@
-# ATIVIDADE_01 da Disciplina  Tecnologias Web, UFC-Sobral 2018.1
+# Web-application-of-Curriculum
 
 This project is about a subject activity college: Create a website for my curriculum with some pages like especifications bellow. 
 
